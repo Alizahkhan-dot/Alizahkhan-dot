@@ -7,6 +7,8 @@ I am a passionate **MERN Stack Developer** currently in my 5th semester of an Ad
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Thunderclient
+- - **Languages & Mobile:** Python, Flutter (Dart)-
+  -  **Automation & AI:** N8N, AI Prompt Engineering
 
 ### 🚀 Featured Projects
 * **The Luxury Stay HMS** - A complete Hotel Management System built with React, Node.js, and MongoDB to manage room bookings and room services dynamically. (https://github.com/eshalasad19/Hotel-Management-System.git)

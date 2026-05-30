@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Alizah! 👋
 
-<!--
-**Alizahkhan-dot/Alizahkhan-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **MERN Stack Developer** currently in my 5th semester of an Advanced Diploma in Software Engineering at Aptech Learning. I love building responsive, user-friendly web applications and solving complex backend problems.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Thunderclient
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **The Luxury Stay HMS** - A complete Hotel Management System built with React, Node.js, and MongoDB to manage room bookings and room services dynamically. (https://github.com/eshalasad19/Hotel-Management-System.git)
+
+### 📫 Connect with Me
+- 📧 Email: alizahk712@gmail.com
+

@@ -16,3 +16,4 @@ I am a passionate **MERN Stack Developer** currently in my 5th semester of an Ad
 ### 📫 Connect with Me
 - 📧 Email: alizahk712@gmail.com
 
+**⚡ “Code is like magic — if you know the spell, you can build anything.”**
